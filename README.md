@@ -1,6 +1,6 @@
-<h1 align="center">Bello _nut_natthawat_</h1>
+<h1 align="center">Bello nut</h1>
 <h3 align="center">ig: _nut_natthawat_</h3>
-<img align="right" alt="Coding" width="400" src="https://gifdb.com/images/high/what-meme-498-x-331-gif-8fan6upx3ftaahul.gif">
+<img align="right" alt="Coding" width="400" src="https://media.tenor.com/K79FG1wPlzUAAAAM/fornite-banana.gif">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nut-natthawat&label=Profile%20views&color=0e75b6&style=flat" alt="nut-natthawat" /> </p>
