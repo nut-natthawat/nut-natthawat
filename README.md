@@ -1,11 +1,16 @@
-<h1 align="center">Bello nut</h1>
-<h3 align="center">ig: _nut_natthawat_</h3>
+<h1 align="center"> _nut_natthawat_ ♥</h1>
+<h3 align="center">sawasdeekub</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/K79FG1wPlzUAAAAM/fornite-banana.gif">
 
+- name: **Nut**
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nut-natthawat&label=Profile%20views&color=0e75b6&style=flat" alt="nut-natthawat" /> </p>
+- My girl: **@lilji_frn**
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+- ig: **@_nut_natthawat**
+
+- Made **In 2005**
+
+- FAV song: **https://youtu.be/w_6fWYY6pRw?si=Wu2Tl_Ag2lbM9-xN**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -18,4 +23,3 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nut-natthawat&show_icons=true&locale=en" alt="nut-natthawat" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nut-natthawat&" alt="nut-natthawat" /></p>
