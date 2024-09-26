@@ -4,8 +4,6 @@
 
 - name: **Nut**
 
-- My girl: **@lilji_frn**
-
 - ig: **@_nut_natthawat**
 
 - Made **In 2005**
