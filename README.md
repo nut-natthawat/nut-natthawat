@@ -8,8 +8,6 @@
 
 - Made **In 2005**
 
-- FAV song: **https://youtu.be/w_6fWYY6pRw?si=Wu2Tl_Ag2lbM9-xN**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
